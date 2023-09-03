@@ -1,4 +1,4 @@
-![Book issue](https://github.com/Ayush-Gupta5/Library-Management-System-with-C-Sharp/assets/143918681/2c82614c-9f5d-4d41-8a48-945b9fd01cd0)# Library-Management-System-with-C-Sharp
+# Library-Management-System-with-C-Shar
 
 Developed a Window Application (Library Management System) using ASP.Net with C# that allow user to manage Student records, Book records and other things related to Library.
 
