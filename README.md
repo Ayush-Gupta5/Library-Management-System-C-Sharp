@@ -1,7 +1,6 @@
 # Library-Management-System-with-C-Shar
 
-Developed a Window Application (Library Management System) using ASP.Net with C# that allow user to manage Student records, Book records and other things related to Library.
-
+I created a Windows application, specifically a Library Management System, using C#. This application provides users with the capability to efficiently oversee and manage various aspects of a library, including student records, book records, and other related functions.
 
 
 
